@@ -1,0 +1,1 @@
+# hszg-typescript-example-project
